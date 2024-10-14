@@ -1,0 +1,44 @@
+﻿  main.cpp
+C:\CWorkSpace\SoftwareRasterizer\Projects\DrawTriangle\main.cpp(87,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\CWorkSpace\SoftwareRasterizer\Projects\DrawTriangle\main.cpp(90,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\CWorkSpace\SoftwareRasterizer\Projects\DrawTriangle\main.cpp(96,11): warning C4244: 'initializing': conversion from 'const _Ty' to 'int', possible loss of data
+C:\CWorkSpace\SoftwareRasterizer\Projects\DrawTriangle\main.cpp(96,11): warning C4244:         with
+C:\CWorkSpace\SoftwareRasterizer\Projects\DrawTriangle\main.cpp(96,11): warning C4244:         [
+C:\CWorkSpace\SoftwareRasterizer\Projects\DrawTriangle\main.cpp(96,11): warning C4244:             _Ty=float
+C:\CWorkSpace\SoftwareRasterizer\Projects\DrawTriangle\main.cpp(96,11): warning C4244:         ]
+C:\CWorkSpace\SoftwareRasterizer\Projects\DrawTriangle\main.cpp(97,14): warning C4244: 'initializing': conversion from 'const _Ty' to 'int', possible loss of data
+C:\CWorkSpace\SoftwareRasterizer\Projects\DrawTriangle\main.cpp(97,14): warning C4244:         with
+C:\CWorkSpace\SoftwareRasterizer\Projects\DrawTriangle\main.cpp(97,14): warning C4244:         [
+C:\CWorkSpace\SoftwareRasterizer\Projects\DrawTriangle\main.cpp(97,14): warning C4244:             _Ty=float
+C:\CWorkSpace\SoftwareRasterizer\Projects\DrawTriangle\main.cpp(97,14): warning C4244:         ]
+C:\CWorkSpace\SoftwareRasterizer\Projects\DrawTriangle\main.cpp(98,14): warning C4244: 'initializing': conversion from 'const _Ty' to 'int', possible loss of data
+C:\CWorkSpace\SoftwareRasterizer\Projects\DrawTriangle\main.cpp(98,14): warning C4244:         with
+C:\CWorkSpace\SoftwareRasterizer\Projects\DrawTriangle\main.cpp(98,14): warning C4244:         [
+C:\CWorkSpace\SoftwareRasterizer\Projects\DrawTriangle\main.cpp(98,14): warning C4244:             _Ty=float
+C:\CWorkSpace\SoftwareRasterizer\Projects\DrawTriangle\main.cpp(98,14): warning C4244:         ]
+C:\CWorkSpace\SoftwareRasterizer\Projects\DrawTriangle\main.cpp(99,14): warning C4244: 'initializing': conversion from 'const _Ty' to 'int', possible loss of data
+C:\CWorkSpace\SoftwareRasterizer\Projects\DrawTriangle\main.cpp(99,14): warning C4244:         with
+C:\CWorkSpace\SoftwareRasterizer\Projects\DrawTriangle\main.cpp(99,14): warning C4244:         [
+C:\CWorkSpace\SoftwareRasterizer\Projects\DrawTriangle\main.cpp(99,14): warning C4244:             _Ty=float
+C:\CWorkSpace\SoftwareRasterizer\Projects\DrawTriangle\main.cpp(99,14): warning C4244:         ]
+C:\CWorkSpace\SoftwareRasterizer\Projects\DrawTriangle\main.cpp(110,13): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+C:\CWorkSpace\SoftwareRasterizer\Projects\DrawTriangle\main.cpp(110,13): warning C4244:         with
+C:\CWorkSpace\SoftwareRasterizer\Projects\DrawTriangle\main.cpp(110,13): warning C4244:         [
+C:\CWorkSpace\SoftwareRasterizer\Projects\DrawTriangle\main.cpp(110,13): warning C4244:             T=float
+C:\CWorkSpace\SoftwareRasterizer\Projects\DrawTriangle\main.cpp(110,13): warning C4244:         ]
+C:\CWorkSpace\SoftwareRasterizer\Projects\DrawTriangle\main.cpp(112,14): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+C:\CWorkSpace\SoftwareRasterizer\Projects\DrawTriangle\main.cpp(112,14): warning C4244:         with
+C:\CWorkSpace\SoftwareRasterizer\Projects\DrawTriangle\main.cpp(112,14): warning C4244:         [
+C:\CWorkSpace\SoftwareRasterizer\Projects\DrawTriangle\main.cpp(112,14): warning C4244:             T=float
+C:\CWorkSpace\SoftwareRasterizer\Projects\DrawTriangle\main.cpp(112,14): warning C4244:         ]
+C:\CWorkSpace\SoftwareRasterizer\Projects\DrawTriangle\main.cpp(150,21): warning C4244: 'argument': conversion from 'T' to 'const int', possible loss of data
+C:\CWorkSpace\SoftwareRasterizer\Projects\DrawTriangle\main.cpp(150,21): warning C4244:         with
+C:\CWorkSpace\SoftwareRasterizer\Projects\DrawTriangle\main.cpp(150,21): warning C4244:         [
+C:\CWorkSpace\SoftwareRasterizer\Projects\DrawTriangle\main.cpp(150,21): warning C4244:             T=float
+C:\CWorkSpace\SoftwareRasterizer\Projects\DrawTriangle\main.cpp(150,21): warning C4244:         ]
+C:\CWorkSpace\SoftwareRasterizer\Projects\DrawTriangle\main.cpp(150,16): warning C4244: 'argument': conversion from 'T' to 'const int', possible loss of data
+C:\CWorkSpace\SoftwareRasterizer\Projects\DrawTriangle\main.cpp(150,16): warning C4244:         with
+C:\CWorkSpace\SoftwareRasterizer\Projects\DrawTriangle\main.cpp(150,16): warning C4244:         [
+C:\CWorkSpace\SoftwareRasterizer\Projects\DrawTriangle\main.cpp(150,16): warning C4244:             T=float
+C:\CWorkSpace\SoftwareRasterizer\Projects\DrawTriangle\main.cpp(150,16): warning C4244:         ]
+  DrawTriangle.vcxproj -> C:\CWorkSpace\SoftwareRasterizer\Projects\DrawTriangle\x64\Debug\DrawTriangle.exe

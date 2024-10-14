@@ -1,0 +1,45 @@
+﻿  main.cpp
+C:\CWorkSpace\SoftwareRasterizer\Projects\Transform\main.cpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+C:\CWorkSpace\SoftwareRasterizer\Projects\Transform\main.cpp(87,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\CWorkSpace\SoftwareRasterizer\Projects\Transform\main.cpp(90,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\CWorkSpace\SoftwareRasterizer\Projects\Transform\main.cpp(96,11): warning C4244: 'initializing': conversion from 'const _Ty' to 'int', possible loss of data
+C:\CWorkSpace\SoftwareRasterizer\Projects\Transform\main.cpp(96,11): warning C4244:         with
+C:\CWorkSpace\SoftwareRasterizer\Projects\Transform\main.cpp(96,11): warning C4244:         [
+C:\CWorkSpace\SoftwareRasterizer\Projects\Transform\main.cpp(96,11): warning C4244:             _Ty=float
+C:\CWorkSpace\SoftwareRasterizer\Projects\Transform\main.cpp(96,11): warning C4244:         ]
+C:\CWorkSpace\SoftwareRasterizer\Projects\Transform\main.cpp(97,14): warning C4244: 'initializing': conversion from 'const _Ty' to 'int', possible loss of data
+C:\CWorkSpace\SoftwareRasterizer\Projects\Transform\main.cpp(97,14): warning C4244:         with
+C:\CWorkSpace\SoftwareRasterizer\Projects\Transform\main.cpp(97,14): warning C4244:         [
+C:\CWorkSpace\SoftwareRasterizer\Projects\Transform\main.cpp(97,14): warning C4244:             _Ty=float
+C:\CWorkSpace\SoftwareRasterizer\Projects\Transform\main.cpp(97,14): warning C4244:         ]
+C:\CWorkSpace\SoftwareRasterizer\Projects\Transform\main.cpp(98,14): warning C4244: 'initializing': conversion from 'const _Ty' to 'int', possible loss of data
+C:\CWorkSpace\SoftwareRasterizer\Projects\Transform\main.cpp(98,14): warning C4244:         with
+C:\CWorkSpace\SoftwareRasterizer\Projects\Transform\main.cpp(98,14): warning C4244:         [
+C:\CWorkSpace\SoftwareRasterizer\Projects\Transform\main.cpp(98,14): warning C4244:             _Ty=float
+C:\CWorkSpace\SoftwareRasterizer\Projects\Transform\main.cpp(98,14): warning C4244:         ]
+C:\CWorkSpace\SoftwareRasterizer\Projects\Transform\main.cpp(99,14): warning C4244: 'initializing': conversion from 'const _Ty' to 'int', possible loss of data
+C:\CWorkSpace\SoftwareRasterizer\Projects\Transform\main.cpp(99,14): warning C4244:         with
+C:\CWorkSpace\SoftwareRasterizer\Projects\Transform\main.cpp(99,14): warning C4244:         [
+C:\CWorkSpace\SoftwareRasterizer\Projects\Transform\main.cpp(99,14): warning C4244:             _Ty=float
+C:\CWorkSpace\SoftwareRasterizer\Projects\Transform\main.cpp(99,14): warning C4244:         ]
+C:\CWorkSpace\SoftwareRasterizer\Projects\Transform\main.cpp(110,13): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+C:\CWorkSpace\SoftwareRasterizer\Projects\Transform\main.cpp(110,13): warning C4244:         with
+C:\CWorkSpace\SoftwareRasterizer\Projects\Transform\main.cpp(110,13): warning C4244:         [
+C:\CWorkSpace\SoftwareRasterizer\Projects\Transform\main.cpp(110,13): warning C4244:             T=float
+C:\CWorkSpace\SoftwareRasterizer\Projects\Transform\main.cpp(110,13): warning C4244:         ]
+C:\CWorkSpace\SoftwareRasterizer\Projects\Transform\main.cpp(112,14): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+C:\CWorkSpace\SoftwareRasterizer\Projects\Transform\main.cpp(112,14): warning C4244:         with
+C:\CWorkSpace\SoftwareRasterizer\Projects\Transform\main.cpp(112,14): warning C4244:         [
+C:\CWorkSpace\SoftwareRasterizer\Projects\Transform\main.cpp(112,14): warning C4244:             T=float
+C:\CWorkSpace\SoftwareRasterizer\Projects\Transform\main.cpp(112,14): warning C4244:         ]
+C:\CWorkSpace\SoftwareRasterizer\Projects\Transform\main.cpp(150,21): warning C4244: 'argument': conversion from 'T' to 'const int', possible loss of data
+C:\CWorkSpace\SoftwareRasterizer\Projects\Transform\main.cpp(150,21): warning C4244:         with
+C:\CWorkSpace\SoftwareRasterizer\Projects\Transform\main.cpp(150,21): warning C4244:         [
+C:\CWorkSpace\SoftwareRasterizer\Projects\Transform\main.cpp(150,21): warning C4244:             T=float
+C:\CWorkSpace\SoftwareRasterizer\Projects\Transform\main.cpp(150,21): warning C4244:         ]
+C:\CWorkSpace\SoftwareRasterizer\Projects\Transform\main.cpp(150,16): warning C4244: 'argument': conversion from 'T' to 'const int', possible loss of data
+C:\CWorkSpace\SoftwareRasterizer\Projects\Transform\main.cpp(150,16): warning C4244:         with
+C:\CWorkSpace\SoftwareRasterizer\Projects\Transform\main.cpp(150,16): warning C4244:         [
+C:\CWorkSpace\SoftwareRasterizer\Projects\Transform\main.cpp(150,16): warning C4244:             T=float
+C:\CWorkSpace\SoftwareRasterizer\Projects\Transform\main.cpp(150,16): warning C4244:         ]
+  Transform.vcxproj -> C:\CWorkSpace\SoftwareRasterizer\Projects\Transform\x64\Debug\Transform.exe

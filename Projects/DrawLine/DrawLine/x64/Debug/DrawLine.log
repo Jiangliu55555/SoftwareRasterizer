@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\CWorkSpace\SoftwareRasterizer\Projects\DrawLine\main.cpp(73,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\CWorkSpace\SoftwareRasterizer\Projects\DrawLine\main.cpp(74,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\CWorkSpace\SoftwareRasterizer\Projects\DrawLine\main.cpp(75,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\CWorkSpace\SoftwareRasterizer\Projects\DrawLine\main.cpp(76,20): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  DrawLine.vcxproj -> C:\CWorkSpace\SoftwareRasterizer\Projects\DrawLine\x64\Debug\DrawLine.exe
